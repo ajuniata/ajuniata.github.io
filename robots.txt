@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajuniata.github.io/UEo/sitemap_index.txt
+Sitemap: https://ajuniata.github.io/mwL/sitemap_index.txt
+Sitemap: https://ajuniata.github.io/nNu/sitemap_index.txt
+Sitemap: https://ajuniata.github.io/vTU/sitemap_index.txt
